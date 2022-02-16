@@ -1,0 +1,1 @@
+This is a project where Deep Learning (DL) is used for reinforcement learning in a Tic-Toc-Toe game. It was proposed by Data Science Academy (DSA).
